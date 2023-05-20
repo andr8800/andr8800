@@ -1,5 +1,5 @@
 # CISC480
-##Introduction
+## Introduction
 
 Signature Work Portfolio
 Hello,
@@ -9,7 +9,7 @@ I have been doing various programming related projects since early highschool wh
 
 In addition to some of my personal programming projects I have done as an individual, the computer science courses I took at University of St. Thomas really improved my programming capabilities both in a technical and creative way. 
 
-##Personal Website
+## Personal Website
 
 This project that I worked on was the first webpage I had ever made. It was part of a web development course I took in 2022 and was my introduction to working with CSS and HTML. At the time I had already done some programming with Javascript, so that was not completely new, but this project definitely helped me grow and was also fun to work on. 
 
